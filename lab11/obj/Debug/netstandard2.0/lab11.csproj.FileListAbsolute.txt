@@ -1,0 +1,16 @@
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/bin/Debug/netstandard2.0/lab11.deps.json
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/bin/Debug/netstandard2.0/lab11.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/bin/Debug/netstandard2.0/ref/lab11.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/bin/Debug/netstandard2.0/lab11.pdb
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/lab11.csproj.AssemblyReference.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/lab11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/Views/Operations.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/lab11.AssemblyInfoInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/lab11.AssemblyInfo.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/lab11.csproj.CoreCompileInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/lab11.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/ref/lab11.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab11/lab11/obj/Debug/netstandard2.0/lab11.pdb

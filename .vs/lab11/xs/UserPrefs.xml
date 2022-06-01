@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2711C5E0-47FB-4F29-841A-F04A5B132707}|Default">
+  <MonoDevelop.Ide.ItemProperties.lab11.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5E8767CF-4E3A-4394-A7A4-67D4B8FB94DD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab11/App.xaml.cs">
+    <Files>
+      <File FileName="lab11/ViewModels/ViewModelBase.cs" Line="21" Column="2" />
+      <File FileName="lab11/ViewModels/OperationsViewModel.cs" Line="76" Column="39" />
+      <File FileName="lab11/Views/Operations.xaml" Line="22" Column="27" />
+      <File FileName="lab11/Views/Operations.xaml.cs" Line="8" Column="41" />
+      <File FileName="lab11/App.xaml.cs" Line="13" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab11" expanded="True">
+            <Node name="lab11" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Operations.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lab11.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
